@@ -1,4 +1,5 @@
-# Node.js Secret Demo App
+# Node.js Demo App
 
 This app contains intentionally exposed secrets in `config.js`.
 Used only for testing Trivy.
+
